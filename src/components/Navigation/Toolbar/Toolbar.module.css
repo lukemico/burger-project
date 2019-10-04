@@ -1,0 +1,18 @@
+.Toolbar {
+    height: 56px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #703b09;
+    display: flex; /* Default of Flex position items next to each in a Row, even if they are Block elements. */
+    justify-content: space-between; /*    Defines how the elements which are wrapped by the Toolbar are apread out. */
+    align-items: center; /*  Determines how the items should be aligned vertically.    */
+    padding: 0 20px;
+    box-sizing: border-box;
+    z-index: 90;
+}
+
+.Toolbar nav {
+    height: 100%;
+}
