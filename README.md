@@ -2,20 +2,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # README | React Burger Project
 
-A template for building a React application which includes:
+A project to explore ReacJS framework, building reusable components that utilise State + Props to render data, in the form of building a burger for a user.
 
--   working with webpack and babel to transform, code-split, and bundle code.
--   create npm scripts to execute commands and work with git and GitHub to track changes and share our code in public.
--   build quality into our project with Jest for unit testing and ESLint for static analysis.
--   configure Prettier for formatting and then enforce all these quality checks before commit with git hooks.
--   incorporate some accessibility checks and enforce some best practices in React with react-axe, React's StrictMode and a default ErrorBoundary component.
+- working with webpack and babel to transform, code-split, and bundle code.
+- create scripts to execute commands and work with git and GitHub to track changes and share our code in public.
+- build quality into our project with Jest for unit testing and ESLint for static analysis.
+- configure Prettier for formatting and then enforce all these quality checks before commit with git hooks.
+- incorporate some accessibility checks and enforce some best practices in React with react-axe, React's StrictMode and a default ErrorBoundary component.
 
 ## Table of Contents
 
--   [Installation](#installation)
--   [Usage](#usage)
--   [Support](#support)
--   [Contributing](#contributing)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Support](#support)
+- [Contributing](#contributing)
 
 ## Installation
 
@@ -49,8 +49,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Usage
 
--   React Build A Burger project
--   An app that explores using ReactJS to build reusable components, manage State + Props to render outputs for a user to buil a burger, calcuate pricing and purchase the burger.
+- React Build A Burger project
+- An app that explores using ReactJS to build reusable components, manage State + Props to render outputs for a user to buil a burger, calcuate pricing and purchase the burger.
 
 ## Versioning
 
