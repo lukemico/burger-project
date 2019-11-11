@@ -1,10 +1,35 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# README | React Burger Project
+
+A template for building a React application which includes:
+
+-   working with webpack and babel to transform, code-split, and bundle code.
+-   create npm scripts to execute commands and work with git and GitHub to track changes and share our code in public.
+-   build quality into our project with Jest for unit testing and ESLint for static analysis.
+-   configure Prettier for formatting and then enforce all these quality checks before commit with git hooks.
+-   incorporate some accessibility checks and enforce some best practices in React with react-axe, React's StrictMode and a default ErrorBoundary component.
+
+## Table of Contents
+
+-   [Installation](#installation)
+-   [Usage](#usage)
+-   [Support](#support)
+-   [Contributing](#contributing)
+
+## Installation
+
+Clone the repo and cd into the directory:
+
+```
+git clone https://github.com/lukemico/burger-project.git
+
+cd burger-project
+```
 
 In the project directory, you can run:
 
-### `npm start`
+### `yarn start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -12,57 +37,29 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-### `npm test`
+### `yarn test`
 
 Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### `yarn run build`
 
 Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+## Usage
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-   React Build A Burger project
+-   An app that explores using ReactJS to build reusable components, manage State + Props to render outputs for a user to buil a burger, calcuate pricing and purchase the burger.
 
-### `npm run eject`
+## Versioning
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+GitHub used for versioning. For the versions available, see the tags on this repository.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Authors
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Luke Mico
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## License
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+n/a
